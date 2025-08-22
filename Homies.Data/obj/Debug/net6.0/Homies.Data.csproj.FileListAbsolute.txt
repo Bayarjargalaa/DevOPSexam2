@@ -1,0 +1,14 @@
+/Users/otgonbayarbayarjargal/Documents/DevOPSexam2/Homies.Data/bin/Debug/net6.0/Homies.Data.deps.json
+/Users/otgonbayarbayarjargal/Documents/DevOPSexam2/Homies.Data/bin/Debug/net6.0/Homies.Data.runtimeconfig.json
+/Users/otgonbayarbayarjargal/Documents/DevOPSexam2/Homies.Data/bin/Debug/net6.0/Homies.Data.dll
+/Users/otgonbayarbayarjargal/Documents/DevOPSexam2/Homies.Data/bin/Debug/net6.0/Homies.Data.pdb
+/Users/otgonbayarbayarjargal/Documents/DevOPSexam2/Homies.Data/obj/Debug/net6.0/Homies.Data.csproj.AssemblyReference.cache
+/Users/otgonbayarbayarjargal/Documents/DevOPSexam2/Homies.Data/obj/Debug/net6.0/Homies.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otgonbayarbayarjargal/Documents/DevOPSexam2/Homies.Data/obj/Debug/net6.0/Homies.Data.AssemblyInfoInputs.cache
+/Users/otgonbayarbayarjargal/Documents/DevOPSexam2/Homies.Data/obj/Debug/net6.0/Homies.Data.AssemblyInfo.cs
+/Users/otgonbayarbayarjargal/Documents/DevOPSexam2/Homies.Data/obj/Debug/net6.0/Homies.Data.csproj.CoreCompileInputs.cache
+/Users/otgonbayarbayarjargal/Documents/DevOPSexam2/Homies.Data/obj/Debug/net6.0/Homies.Data.dll
+/Users/otgonbayarbayarjargal/Documents/DevOPSexam2/Homies.Data/obj/Debug/net6.0/refint/Homies.Data.dll
+/Users/otgonbayarbayarjargal/Documents/DevOPSexam2/Homies.Data/obj/Debug/net6.0/Homies.Data.pdb
+/Users/otgonbayarbayarjargal/Documents/DevOPSexam2/Homies.Data/obj/Debug/net6.0/Homies.Data.genruntimeconfig.cache
+/Users/otgonbayarbayarjargal/Documents/DevOPSexam2/Homies.Data/obj/Debug/net6.0/ref/Homies.Data.dll
